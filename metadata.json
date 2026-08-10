@@ -1,0 +1,6 @@
+{
+  "name": "سوالکار — SoalCar",
+  "description": "پلتفرم پرسش و پاسخ تخصصی خودرو و مشاوره با مکانیک‌های تأییدشده",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
